@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Request</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            max-width: 800px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #044B52;
+        }
+    </style>
+</head>
+<body>
+    <h1>Request to Delete Your Data</h1>
+    <p>If you wish to delete your personal data from the Laudamus app, please follow the steps below:</p>
+    
+    <h2>Steps to Delete Your Data</h2>
+    <ol>
+        <li>Open the <strong>Laudamus</strong> app on your device.</li>
+        <li>Go to the <strong>Settings</strong> section.</li>
+        <li>Select <strong>Manage Account</strong>.</li>
+        <li>Select <strong>Delete My Account</strong>.</li>
+        <li>Confirm the deletion request by Authenticating.</li>
+    </ol>
+    
+    <p>Once the deletion is confirmed, all your personal data will be permanently removed from our system.</p>
+    
+    <h2>Need Help?</h2>
+    <p>If you have any issues or need assistance, contact our support team through the app.</p>
+
+    <p><a href="https://ddiasguto.github.io/laudamus-privacy/">Back to Privacy Policy</a></p>
+</body>
+</html>
